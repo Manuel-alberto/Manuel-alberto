@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuel-alberto" alt="manuel-alberto" /></a> </p>
 
-- 🌱 Me encuentro en busqueda de perfeccionar mis conocimientos acerda de android con java y kotlin **Kotlin, Java, ORM´S**
+- 🌱 Me encuentro en busqueda de perfeccionar mis conocimientos acerca Android con java y kotlin **Kotlin, Java, ORM´S**
 
 - 💬 Preguntame sobre **Retrofit, Volley, Coroutines, MVVM, MVP**
 
